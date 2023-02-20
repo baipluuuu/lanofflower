@@ -1,0 +1,27 @@
+.container{
+    width: 75%;
+}
+.pfooter{
+    text-align: center;
+    background-color: rgb(255, 188, 255);
+}
+.col1{
+    margin: 15px;
+    padding: 10px;
+    border: 1px solid salmon;
+}
+h3,.text,.ppic{
+    text-align: center;
+}
+.size{
+    width: 50%;
+    height: 50%;
+}
+.size1{
+    width: 30%;
+    height: 30%;
+}
+.size2{
+    width: 45%;
+    height: 50%;
+}
